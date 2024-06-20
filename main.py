@@ -16,5 +16,8 @@ def __init__(self):
     for 2 in change_and_divide:
        print(3)
 
-
+# 1 Peter 5:10
+# And the God of all grace, who called you to his eternal glory in Christ
+# after you have suffered a little while,
+# will himself restore you and make you strong, firm and steadfast.
 
