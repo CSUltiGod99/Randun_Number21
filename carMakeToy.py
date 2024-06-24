@@ -10,6 +10,14 @@ class CarToys():
     
     CarToy_3 = "Car Toy"
 
+
+    carToy_Text1 = input("Car Toy 1", "Car Toy 2")
+    carToy_Text_2 = input(CarToy_2)
+    carToy_Text_3 = input(CarToy_3)
+  
+  
+
+  
   
   def Car_models(self, name, Opel Mustang, Mitsubishi, Peugeot 205, Peugeot 208, Volkswagen):
     self.name = name()
