@@ -1,5 +1,6 @@
 from playsound import playsound
-
+from myGraphics import __Smallest_To_Largest__
+import random 
 
 def _sound_muffl(self):
 
@@ -15,6 +16,11 @@ def __init__(self):
     
     for 2 in change_and_divide:
        print(3)
+       _ran=random.randint(change_and_divide)
+    
+    
+
+
 
 # 1 Peter 5:10
 # And the God of all grace, who called you to his eternal glory in Christ
