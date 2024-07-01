@@ -17,8 +17,7 @@ def __init__(self):
     for 2 in change_and_divide:
        print(3)
        _ran=random.randint(change_and_divide)
-    
-    
+       print(change_and_divide)
 
 
 
@@ -26,4 +25,3 @@ def __init__(self):
 # And the God of all grace, who called you to his eternal glory in Christ
 # after you have suffered a little while,
 # will himself restore you and make you strong, firm and steadfast.
-
